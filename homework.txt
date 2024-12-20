@@ -1,0 +1,5 @@
+add navbar to your [portfolio website 
+make diffrent pages like home , about , , experince ,project 
+and add the functionaly  in your navbar  for diversion 
+add your image in protfolio 
+add footer in your portfolio consisting of year 
